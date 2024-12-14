@@ -1,6 +1,6 @@
 
 # /// script
-# requires-python = ">=3.9"
+# requires-python = ">=3.11"
 # dependencies = [
 #   "pandas",
 #   "seaborn",
